@@ -1,2 +1,4 @@
 # LibraryManagment
-Library Management System developed using Java (Vaadin) and MySql
+<a id="desc" />
+* Library Management System developed using Java(Vaadin) and MySql Database.
+
